@@ -10,4 +10,5 @@ type ErrorResponses struct {
 }
 
 type ErrorResponseswsss struct {
+	Sane string
 }
